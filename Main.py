@@ -1,3 +1,7 @@
+#Developed by LUCIANO
+#CREATE IN 08/2023
+
+
 import ccxt
 import numpy as np
 import tkinter as tk
