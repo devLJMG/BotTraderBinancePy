@@ -5,10 +5,9 @@
 
  <h1>packages</h1>
 
-<li>ccxt 
-numpy
-tkinter</li>
-
+<li>ccxt</li>
+<li>numpy</li>
+<li>tkinter</li>
 
 It is a trading bot, developed by me in python language.
 
